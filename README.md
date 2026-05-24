@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Fred and I'm a computer scientist interested in all things Python & Data Science! 
+
+- 🔭 I’m currently working on a kpop face identifier using HuggingFace
+- 🌱 I recently built a website to buy pen-spinning pens 
+- 👯 I’m looking to collaborate on YouTube videos! Send ideas to zeegy609@gmail.com
+
 <!--
 **zeegy99/zeegy99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
