@@ -2,8 +2,8 @@
 
 My name is Fred and I'm a computer scientist interested in all things Python & Data Science! 
 
-- 🔭 I’m currently working on a kpop face identifier using HuggingFace
-- 🌱 I recently built a website to buy pen-spinning pens 
+- 🔭 I’m currently working on a NLP-RAG Pipeline for analyzing financial news
+- 🌱 I recently implemented DDPM
 - 👯 I’m looking to collaborate on YouTube videos! Send ideas to zeegy609@gmail.com
 
 <!--
